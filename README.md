@@ -15,7 +15,7 @@ You can find a [live demo](https://xenodochial-hodgkin-8a267e.netlify.com/) of t
 ## Tutorial
 We have created an in-depth tutorial on how to get started with the app from the very basics using Metalsmith and Built.io Contentstack. By following the steps given in the tutorial, you will be able to create an app similar to the one given in the demo.
  
-[Tutorial to create an app using Gatsby and Built.io Contentstack](https://www.contentstack.com/docs/example-apps/build-an-ios-news-app-using-contentstacks-ios-sdk)
+[Tutorial to create an app using Gatsby and Built.io Contentstack](https://www.contentstack.com/docs/example-apps/build-a-static-website-using-gatsby-and-contentstack)
  
 ## Documentation
  
