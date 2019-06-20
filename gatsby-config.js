@@ -1,10 +1,3 @@
-const activeEnv =
-  process.env.NODE_ENV || `development`;
-
-require(`dotenv`).config({
-  path: `.env.${activeEnv}`,
-}) 
-
 module.exports = {
   siteMetadata: {
     title: 'Gatsby + Contentstack',
@@ -13,9 +6,9 @@ module.exports = {
     {
       resolve: 'gatsby-source-contentstack',
       options:{
-        'api_key': process.env.GATSBY_CONTENTSTACK_API_KEY,
-        'access_token': process.env.GATSBY_CONTENTSTACK_ACCESS_TOKEN,
-        'environment': process.env.GATSBY_CONTENTSTACK_ENV
+        'api_key':'blt3ad5ae47f80f07c0',
+        'access_token':'cs9c2b536cda28aa87f6f14fb1',
+        'environment':'dev'
       },
     },
     'gatsby-plugin-react-helmet'
